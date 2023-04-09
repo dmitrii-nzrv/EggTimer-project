@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:EggTimer.xcodeproj">
+      location = "self:/Users/dmitrii/Documents/AngelaSwiftCourse/module8/myEggsTimer/EggTimer.xcodeproj">
    </FileRef>
 </Workspace>
